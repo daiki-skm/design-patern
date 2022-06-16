@@ -1,4 +1,3 @@
-//public interface Print {
 public abstract class Print {
     public abstract void printWeak();
 
