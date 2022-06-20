@@ -1,0 +1,4 @@
+hyuki@example.com=Hiroshi Hyuki
+hanako@example.com=Hanako Sato
+tomura@example.com=Tomura
+mamoru@example.com=Mamoru Ikeda
